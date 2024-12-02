@@ -9,6 +9,8 @@ Je suis Klaivert [Alexandre Bosio], bien venue sur mon Github. 🚀
 - [Nom du projet 2](lien_du_projet)
 
 🔧 **Compétences techniques :**
+
+---
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
