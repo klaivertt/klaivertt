@@ -5,8 +5,8 @@
 Je suis Klaivert [Alexandre Bosio], bien venue sur mon Github. 🚀
 
 🌟 **Mes projets en vedette :**
-- [MiniFighter]([lien_du_projet](https://github.com/klaivertt/MiniFighter))
-- [Nom du projet 2](lien_du_projet)
+- [MiniFighter](https://github.com/klaivertt/MiniFighter)
+- [pongSFML](https://github.com/klaivertt/pongSFML)
 
 🔧 **Compétences techniques :**
 
