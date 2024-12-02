@@ -37,8 +37,6 @@
 
 ---
 
-📫 **Connect with Me**
-
 <div align="center">
   <p>
     <a href="https://github.com/Klaivertt"><img src="https://img.shields.io/badge/GitHub-Klaivertt-181717?style=for-the-badge&logo=github&logoColor=white"></a>
