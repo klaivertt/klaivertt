@@ -46,8 +46,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <h2>🌱 Fun Fact</h2>
-  <p>When I'm not coding, I enjoy learning new technologies and experimenting with new ideas!</p>
-</div>
