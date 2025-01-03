@@ -5,14 +5,6 @@
 </div>
 
 <div align="center">
-  <h2>💼 Portfolio</h2>
-  <p>Explore my projects and creations in my online portfolio!</p>
-  <a href="https://votre-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4e73df?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Badge" />
-  </a>
-</div>
-
-<div align="center">
   <h2>🔧 Technical Skills</h2>
   <img align="center" alt="C" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
   <img align="center" alt="VisualStudio" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -44,7 +36,9 @@
 ---
 
 <div align="center">
-  <p>
-    <a href="https://github.com/Klaivertt"><img src="https://img.shields.io/badge/GitHub-Klaivertt-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  </p>
+  <h2>💼 Portfolio</h2>
+  <p>Explore my projects and creations in my online portfolio!</p>
+  <a href="https://votre-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4e73df?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </div>
