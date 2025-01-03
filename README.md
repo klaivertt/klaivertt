@@ -4,7 +4,13 @@
   <p>I'm a student at Creajeux, in video game programming <strong>C</strong>, and <strong>Lua</strong>. 
 </div>
 
----
+<div align="center">
+  <h2>💼 Portfolio</h2>
+  <p>Explore my projects and creations in my online portfolio!</p>
+  <a href="https://votre-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4e73df?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Badge" />
+  </a>
+</div>
 
 <div align="center">
   <h2>🔧 Technical Skills</h2>
