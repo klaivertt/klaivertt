@@ -27,7 +27,8 @@
 🚀 **Projects & Contributions**
 
 <div align="center">
-  <ul align="left">
+  <ul align="left">    
+    <li>🥋 <a href="https://www.creajeux.fr/project/lostintime/">Lost In Time</a>: end-of-year project for my preparatory year.</li>
     <li>🥋 <a href="https://github.com/klaivertt/MiniFighter">MiniFighter</a>: A fun and engaging project where I explored game mechanics.</li>
     <li>🏓 <a href="https://github.com/klaivertt/pongSFML">pongSFML</a>: A simple Pong game using SFML.</li>
   </ul>
