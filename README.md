@@ -2,6 +2,7 @@
 <div align="center">
   <h1>👋 Welcome to my GitHub Profile!</h1>
   <p>I'm a student at Creajeux, in video game programming <strong>C</strong>, and <strong>Lua</strong>. 
+  <img src="https://render.gitanimals.org/lines/Klaivertt" width="600" height="200"/>
 </div>
 
 <div align="center">
