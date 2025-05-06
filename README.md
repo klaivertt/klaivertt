@@ -2,16 +2,15 @@
 <div align="center">
   <h1>👋 Welcome to my GitHub Profile!</h1>
   <p>I'm a student at Creajeux, in video game programming <strong>C</strong>, and <strong>Lua</strong>. 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=klaivertt&utm_content=farm">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=klaivertt&utm_content=farm">
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=klaivertt&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/klaivertt"
-  width="600"
-  height="300"
-/>
+    
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=klaivertt&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/klaivertt"
+    width="600"
+    height="120"
+  />
 </a>
-</a>
+  
 </div>
 
 <div align="center">
