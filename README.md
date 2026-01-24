@@ -25,7 +25,7 @@
 <div align="center">
   <h2>🔥 GitHub Stats</h2>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Klaivert&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)(https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=klaivertt&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
   ![Klaivert GitHub stats](https://github-readme-stats.vercel.app/api?username=klaivertt&show_icons=true&theme=highcontrast&hide_border=true&card_width=460)
 
