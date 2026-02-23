@@ -27,9 +27,6 @@
   
    [![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=klaivertt&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-  ![Klaivert GitHub stats](https://github-readme-stats.vercel.app/api?username=klaivertt&show_icons=true&theme=highcontrast&hide_border=true&card_width=460)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaivertt&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
