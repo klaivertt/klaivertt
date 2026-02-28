@@ -25,7 +25,7 @@
 <div align="center">
   <h2>🔥 GitHub Stats</h2>
   
-   [![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=klaivertt&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=daily&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+   [![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=klaivertt&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 
