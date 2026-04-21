@@ -3,14 +3,6 @@
   <h1>👋 Welcome to my GitHub Profile!</h1>
   <p>I'm a student at Creajeux, in video game programming <strong>C</strong>,  <strong>C++</strong>, and <strong>Lua</strong>. 
     
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=klaivertt&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/klaivertt"
-  width="600"
-  height="300"
-/>
-</a>
-
 </div>
 
 <div align="center">
