@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h2>🔧 Technical Skills</h2>
+  <h2>Technical Skills</h2>
   <img align="center" alt="C" width="30px" style="margin: 0 10px;" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
   <img align="center" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img align="center" alt="VisualStudio" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <h2>🔥 GitHub Stats</h2>
+  <h2>GitHub Stats</h2>
   
    [![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=klaivertt&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
@@ -23,20 +23,21 @@
 
 ---
 
-🚀 **Projects & Contributions**
+ **Projects & Contributions**
 
 <div align="center">
   <ul align="left">    
-    <li>⏳ <a href="https://www.creajeux.fr/project/lostintime/">Lost In Time</a>: end-of-year project for my preparatory year.</li>
-    <li>🥋 <a href="https://github.com/klaivertt/MiniFighter">MiniFighter</a>: A fun and engaging project where I explored game mechanics.</li>
-    <li>🏓 <a href="https://github.com/klaivertt/pongSFML">pongSFML</a>: A simple Pong game using SFML.</li>
+    <li> <a href="https://www.creajeux.fr/projet/the-scarlet-night/">The Scarlet Night</a> : end-of-year project for my first year.</li>
+    <li> <a href="https://www.creajeux.fr/project/lost-in-time/">Lost In Time</a>: end-of-year project for my preparatory year.</li>
+    <li> <a href="https://github.com/klaivertt/MiniFighter">MiniFighter</a>: A fun and engaging project where I explored game mechanics.</li>
+    <li> <a href="https://github.com/klaivertt/pongSFML">pongSFML</a>: A simple Pong game using SFML.</li>
   </ul>
 </div>
 
 ---
 
 <div align="center">
-  <h2>💼 Portfolio</h2>
+  <h2> Portfolio</h2>
   <p>Explore my projects and creations in my online portfolio!</p>
   <a href="https://klaivertt.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4e73df?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Badge" />
