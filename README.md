@@ -9,6 +9,7 @@
   <h2>Technical Skills</h2>
   <img align="center" alt="C" width="30px" style="margin: 0 10px;" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"/>
   <img align="center" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  <img align="center" alt="Python width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ficon-icons.com%2Ffr%2Ficone%2Fpython-logo%2F168886&ved=0CBYQjRxqFwoTCJja5Myio5UDFQAAAAAdAAAAABBq&opi=89978449" />
   <img align="center" alt="VisualStudio" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="GitHub" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Lua" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" />
