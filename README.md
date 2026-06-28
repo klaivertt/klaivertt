@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>👋 Welcome to my GitHub Profile!</h1>
-  <p>I'm a student at Creajeux, in video game programming <strong>C</strong>,  <strong>C++</strong>, and <strong>Lua</strong>. 
+  <p>I'm a student at Creajeux, in video game programming <strong>C</strong>,  <strong>C++</strong>, <strong>Lua</strong> and <strong>Pyhton</strong>. 
     
 </div>
 
