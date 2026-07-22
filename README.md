@@ -28,7 +28,7 @@
 
 <div align="center">
   <ul align="left">    
-    <li> <a href="https://www.creajeux.fr/projet/the-scarlet-night/">The Scarlet Night</a> : end-of-year project for my first year.</li>
+    <li> <a href="https://www.creajeux.fr/projet/the-scarlet-night/">The Scarlet Night</a> : end-of-year project for my first year. <a href = "https://github.com/Mine8460/Project-Zeldo">Source Code</a></li>
     <li> <a href="https://www.creajeux.fr/project/lost-in-time/">Lost In Time</a>: end-of-year project for my preparatory year.</li>
     <li> <a href="https://github.com/klaivertt/MiniFighter">MiniFighter</a>: A fun and engaging project where I explored game mechanics.</li>
     <li> <a href="https://github.com/klaivertt/pongSFML">pongSFML</a>: A simple Pong game using SFML.</li>
