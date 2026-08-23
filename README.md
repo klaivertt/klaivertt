@@ -15,13 +15,6 @@
   <img align="center" alt="GitHub" width="30px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-<div align="center">
-  <h2>GitHub Stats</h2>
-  
-   [![GitHub Streak](https://github-readme-streak-stats-blush-six.vercel.app?user=klaivertt&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
  **Projects & Contributions**
